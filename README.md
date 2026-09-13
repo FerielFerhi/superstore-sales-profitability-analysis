@@ -18,3 +18,4 @@ Plotly (Express & Graph Objects), Pandas, Python
 
 ## Files
 - `Superstore_Analysis.ipynb` — full notebook with interactive charts
+- https://colab.research.google.com/drive/1xhaCdH15Nqxh5x45Ve-KVuSJdMqHov1V#scrollTo=wlD5Vubk_0ds
